@@ -5,7 +5,7 @@ The 2022 Statistical Restoration is the first computer-generated text derived di
 
 <h2>License</h2>
 <img alt='Creative Commons License' src="https://licensebuttons.net/l/by/4.0/88x31.png" width="88" height="31"/>
-Copyright © 2022 by Alan Bunning released under the <a rel=license href=http://creativecommons.org/licenses/by/4.0/>Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Attribution must be given to Alan Bunning and the Center for New Testament Restoration.
+Copyright © 2022 by Alan Bunning released under the <a rel=license href=http://creativecommons.org/licenses/by/4.0/>Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Attribution must be given to Alan Bunning and the <a href=http://greekcntr.org>Center for New Testament Restoration</a>.
 
 <h2>Citation</h2>
 Bunning, Alan, ed. <i>Statistical Restoration Greek New Testament</i>. Center for New Testament Restoration. 2022.
